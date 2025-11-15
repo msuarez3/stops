@@ -1,0 +1,629 @@
+{
+  "stops": [
+
+    /* ============================
+       LÍNEA 1 — PLAZA CASTILLA → ATOCHA
+       ============================ */
+    {
+      "id": "10101",
+      "name": "Plaza Castilla",
+      "location": { "latitude": 40.4661, "longitude": -3.6884 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10101"
+    },
+    {
+      "id": "10102",
+      "name": "Chamartín",
+      "location": { "latitude": 40.4722, "longitude": -3.6841 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10102"
+    },
+    {
+      "id": "10103",
+      "name": "Cuzco",
+      "location": { "latitude": 40.4582, "longitude": -3.6891 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10103"
+    },
+    {
+      "id": "10104",
+      "name": "Paseo de la Castellana - Bernabéu",
+      "location": { "latitude": 40.4524, "longitude": -3.6880 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10104"
+    },
+    {
+      "id": "10105",
+      "name": "Nuevos Ministerios",
+      "location": { "latitude": 40.4474, "longitude": -3.6920 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10105"
+    },
+    {
+      "id": "10106",
+      "name": "Río Rosas",
+      "location": { "latitude": 40.4415, "longitude": -3.6950 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10106"
+    },
+    {
+      "id": "10107",
+      "name": "Alonso Martínez",
+      "location": { "latitude": 40.4279, "longitude": -3.6955 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10107"
+    },
+    {
+      "id": "10108",
+      "name": "Bilbao",
+      "location": { "latitude": 40.4293, "longitude": -3.7032 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10108"
+    },
+    {
+      "id": "10109",
+      "name": "San Bernardo",
+      "location": { "latitude": 40.4301, "longitude": -3.7070 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10109"
+    },
+    {
+      "id": "10110",
+      "name": "Noviciado",
+      "location": { "latitude": 40.4277, "longitude": -3.7078 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10110"
+    },
+    {
+      "id": "10111",
+      "name": "Santo Domingo",
+      "location": { "latitude": 40.4247, "longitude": -3.7070 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10111"
+    },
+    {
+      "id": "10112",
+      "name": "Callao",
+      "location": { "latitude": 40.4203, "longitude": -3.7058 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10112"
+    },
+    {
+      "id": "10113",
+      "name": "Sol",
+      "location": { "latitude": 40.4169, "longitude": -3.7035 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10113"
+    },
+    {
+      "id": "10114",
+      "name": "Antón Martín",
+      "location": { "latitude": 40.4116, "longitude": -3.6993 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10114"
+    },
+    {
+      "id": "10115",
+      "name": "Atocha",
+      "location": { "latitude": 40.4065, "longitude": -3.6900 },
+      "lines": [{ "number": "1", "direction": "Plaza Castilla → Atocha", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/10115"
+    },
+
+
+    /* ============================
+       LÍNEA 2 — QUEVEDO → VENTAS
+       ============================ */
+    {
+      "id": "20101",
+      "name": "Quevedo",
+      "location": { "latitude": 40.4339, "longitude": -3.7033 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20101"
+    },
+    {
+      "id": "20102",
+      "name": "San Bernardo",
+      "location": { "latitude": 40.4303, "longitude": -3.7070 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20102"
+    },
+    {
+      "id": "20103",
+      "name": "Noviciado",
+      "location": { "latitude": 40.4277, "longitude": -3.7080 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20103"
+    },
+    {
+      "id": "20104",
+      "name": "Callao",
+      "location": { "latitude": 40.4204, "longitude": -3.7057 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20104"
+    },
+    {
+      "id": "20105",
+      "name": "Banco de España",
+      "location": { "latitude": 40.4190, "longitude": -3.6900 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20105"
+    },
+    {
+      "id": "20106",
+      "name": "Retiro",
+      "location": { "latitude": 40.4150, "longitude": -3.6850 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20106"
+    },
+    {
+      "id": "20107",
+      "name": "Ibiza",
+      "location": { "latitude": 40.4210, "longitude": -3.6739 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20107"
+    },
+    {
+      "id": "20108",
+      "name": "Sainz de Baranda",
+      "location": { "latitude": 40.4210, "longitude": -3.6671 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20108"
+    },
+    {
+      "id": "20109",
+      "name": "Estrella",
+      "location": { "latitude": 40.4201, "longitude": -3.6613 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20109"
+    },
+    {
+      "id": "20110",
+      "name": "Pueblo Nuevo",
+      "location": { "latitude": 40.4351, "longitude": -3.6400 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20110"
+    },
+    {
+      "id": "20111",
+      "name": "Ascao",
+      "location": { "latitude": 40.4360, "longitude": -3.6250 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20111"
+    },
+    {
+      "id": "20112",
+      "name": "Quintana",
+      "location": { "latitude": 40.4330, "longitude": -3.6420 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20112"
+    },
+    {
+      "id": "20113",
+      "name": "El Carmen",
+      "location": { "latitude": 40.4315, "longitude": -3.6522 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20113"
+    },
+    {
+      "id": "20114",
+      "name": "Ventas",
+      "location": { "latitude": 40.4300, "longitude": -3.6620 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20114"
+    },
+    {
+      "id": "20115",
+      "name": "Plaza de Toros",
+      "location": { "latitude": 40.4306, "longitude": -3.6634 },
+      "lines": [{ "number": "2", "direction": "Quevedo → Ventas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/20115"
+    },
+
+
+    /* ============================
+       LÍNEA 34 — CIBELES → LAS ÁGUILAS
+       ============================ */
+    {
+      "id": "340101",
+      "name": "Cibeles",
+      "location": { "latitude": 40.4190, "longitude": -3.6939 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340101"
+    },
+    {
+      "id": "340102",
+      "name": "Neptuno",
+      "location": { "latitude": 40.4136, "longitude": -3.6931 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340102"
+    },
+    {
+      "id": "340103",
+      "name": "Atocha",
+      "location": { "latitude": 40.4064, "longitude": -3.6903 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340103"
+    },
+    {
+      "id": "340104",
+      "name": "Palos de la Frontera",
+      "location": { "latitude": 40.4019, "longitude": -3.6900 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340104"
+    },
+    {
+      "id": "340105",
+      "name": "Delicias",
+      "location": { "latitude": 40.3970, "longitude": -3.6998 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340105"
+    },
+    {
+      "id": "340106",
+      "name": "Legazpi",
+      "location": { "latitude": 40.3918, "longitude": -3.6935 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340106"
+    },
+    {
+      "id": "340107",
+      "name": "Usera",
+      "location": { "latitude": 40.3854, "longitude": -3.7133 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340107"
+    },
+    {
+      "id": "340108",
+      "name": "Almendrales",
+      "location": { "latitude": 40.3820, "longitude": -3.7030 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340108"
+    },
+    {
+      "id": "340109",
+      "name": "Orcasitas",
+      "location": { "latitude": 40.3725, "longitude": -3.7093 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340109"
+    },
+    {
+      "id": "340110",
+      "name": "Aviación Española",
+      "location": { "latitude": 40.3610, "longitude": -3.7680 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340110"
+    },
+    {
+      "id": "340111",
+      "name": "Las Águilas",
+      "location": { "latitude": 40.3720, "longitude": -3.7741 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340111"
+    },
+    {
+      "id": "340112",
+      "name": "General Ricardos",
+      "location": { "latitude": 40.3830, "longitude": -3.7311 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340112"
+    },
+    {
+      "id": "340113",
+      "name": "Oporto",
+      "location": { "latitude": 40.3850, "longitude": -3.7181 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340113"
+    },
+    {
+      "id": "340114",
+      "name": "Vista Alegre",
+      "location": { "latitude": 40.3867, "longitude": -3.7400 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340114"
+    },
+    {
+      "id": "340115",
+      "name": "Campamento",
+      "location": { "latitude": 40.3907, "longitude": -3.7623 },
+      "lines": [{ "number": "34", "direction": "Cibeles → Las Águilas", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/340115"
+    },
+
+
+    /* ============================
+       LÍNEA 70 — ALSACIA → SANTIAGO BERNABÉU
+       ============================ */
+    {
+      "id": "700101",
+      "name": "Alsacia",
+      "location": { "latitude": 40.4264, "longitude": -3.6237 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700101"
+    },
+    {
+      "id": "700102",
+      "name": "Avenida de Guadalajara",
+      "location": { "latitude": 40.4290, "longitude": -3.6350 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700102"
+    },
+    {
+      "id": "700103",
+      "name": "Pueblo Nuevo",
+      "location": { "latitude": 40.4351, "longitude": -3.6378 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700103"
+    },
+    {
+      "id": "700104",
+      "name": "Arturo Soria",
+      "location": { "latitude": 40.4382, "longitude": -3.6535 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700104"
+    },
+    {
+      "id": "700105",
+      "name": "Av. de América",
+      "location": { "latitude": 40.4390, "longitude": -3.6780 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700105"
+    },
+    {
+      "id": "700106",
+      "name": "Príncipe de Vergara",
+      "location": { "latitude": 40.4375, "longitude": -3.6820 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700106"
+    },
+    {
+      "id": "700107",
+      "name": "Diego de León",
+      "location": { "latitude": 40.4357, "longitude": -3.6765 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700107"
+    },
+    {
+      "id": "700108",
+      "name": "Rubén Darío",
+      "location": { "latitude": 40.4310, "longitude": -3.6923 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700108"
+    },
+    {
+      "id": "700109",
+      "name": "Gregorio Marañón",
+      "location": { "latitude": 40.4343, "longitude": -3.6920 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700109"
+    },
+    {
+      "id": "700110",
+      "name": "Nuevos Ministerios",
+      "location": { "latitude": 40.4474, "longitude": -3.6920 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700110"
+    },
+    {
+      "id": "700111",
+      "name": "Santiago Bernabéu",
+      "location": { "latitude": 40.4522, "longitude": -3.6880 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700111"
+    },
+    {
+      "id": "700112",
+      "name": "Colombia",
+      "location": { "latitude": 40.4631, "longitude": -3.6762 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700112"
+    },
+    {
+      "id": "700113",
+      "name": "Pinar del Rey",
+      "location": { "latitude": 40.4672, "longitude": -3.6461 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700113"
+    },
+    {
+      "id": "700114",
+      "name": "Manoteras",
+      "location": { "latitude": 40.4800, "longitude": -3.6482 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700114"
+    },
+    {
+      "id": "700115",
+      "name": "Hospital Ramón y Cajal",
+      "location": { "latitude": 40.4801, "longitude": -3.7002 },
+      "lines": [{ "number": "70", "direction": "Alsacia → Bernabéu", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/700115"
+    },
+
+
+    /* ============================
+       LÍNEA 5 — SOL → CHAMARTÍN
+       ============================ */
+    {
+      "id": "500101",
+      "name": "Sol",
+      "location": { "latitude": 40.4169, "longitude": -3.7035 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500101"
+    },
+    {
+      "id": "500102",
+      "name": "Gran Vía",
+      "location": { "latitude": 40.4202, "longitude": -3.7042 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500102"
+    },
+    {
+      "id": "500103",
+      "name": "Tribunal",
+      "location": { "latitude": 40.4251, "longitude": -3.7032 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500103"
+    },
+    {
+      "id": "500104",
+      "name": "Bilbao",
+      "location": { "latitude": 40.4293, "longitude": -3.7032 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500104"
+    },
+    {
+      "id": "500105",
+      "name": "Quevedo",
+      "location": { "latitude": 40.4339, "longitude": -3.7033 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500105"
+    },
+    {
+      "id": "500106",
+      "name": "Canal",
+      "location": { "latitude": 40.4390, "longitude": -3.7039 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500106"
+    },
+    {
+      "id": "500107",
+      "name": "Cuatro Caminos",
+      "location": { "latitude": 40.4472, "longitude": -3.7036 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500107"
+    },
+    {
+      "id": "500108",
+      "name": "Estrecho",
+      "location": { "latitude": 40.4540, "longitude": -3.6970 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500108"
+    },
+    {
+      "id": "500109",
+      "name": "Tetuán",
+      "location": { "latitude": 40.4604, "longitude": -3.6981 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500109"
+    },
+    {
+      "id": "500110",
+      "name": "Valdeacederas",
+      "location": { "latitude": 40.4651, "longitude": -3.6982 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500110"
+    },
+    {
+      "id": "500111",
+      "name": "Plaza Castilla",
+      "location": { "latitude": 40.4661, "longitude": -3.6884 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500111"
+    },
+    {
+      "id": "500112",
+      "name": "Chamartín",
+      "location": { "latitude": 40.4722, "longitude": -3.6841 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500112"
+    },
+    {
+      "id": "500113",
+      "name": "Manoteras",
+      "location": { "latitude": 40.4800, "longitude": -3.6482 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500113"
+    },
+    {
+      "id": "500114",
+      "name": "Sanchinarro",
+      "location": { "latitude": 40.4990, "longitude": -3.6600 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500114"
+    },
+    {
+      "id": "500115",
+      "name": "Valdebebas",
+      "location": { "latitude": 40.4930, "longitude": -3.6140 },
+      "lines": [{ "number": "5", "direction": "Sol → Chamartín", "type": "urbana" }],
+      "arrivals": [],
+      "apiURL": "https://api.emt/500115"
+    }
+
+  ]
+}

@@ -15,31 +15,7 @@
         }
       ],
       "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1401/arrives",
-      "status": "active",
-      "category": "Intercambiador",
-      "imageURL": "https://example.com/images/1401.jpg",
-      "infoURL": "https://www.emtmadrid.es/PMVVisor/pmv.aspx?stopnum=1401",
-      "averageRating": 4.5,
-      "reviews": [
-        {
-          "id": "r1",
-          "userName": "Juan P.",
-          "rating": 5.0,
-          "comment": "Parada muy bien situada, con marquesina y siempre puntual",
-          "date": "2025-01-15T10:30:00Z"
-        },
-        {
-          "id": "r2",
-          "userName": "María G.",
-          "rating": 4.0,
-          "comment": "Buena conexión de líneas, pero a veces hay mucha gente",
-          "date": "2025-01-14T16:45:00Z"
-        }
-      ],
-      "lastUpdated": "2025-01-17T08:00:00Z",
-      "accessibility": true,
-      "shelter": true
+      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1401/arrives"
     },
     {
       "id": "1402",
@@ -56,65 +32,7 @@
         }
       ],
       "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1402/arrives",
-      "status": "active",
-      "category": "Normal",
-      "imageURL": null,
-      "infoURL": null,
-      "averageRating": 3.8,
-      "reviews": [
-        {
-          "id": "r3",
-          "userName": "Carlos M.",
-          "rating": 4.0,
-          "comment": "Parada correcta, cerca del hospital",
-          "date": "2025-01-10T12:00:00Z"
-        },
-        {
-          "id": "r4",
-          "userName": "Ana L.",
-          "rating": 3.5,
-          "comment": "Le falta marquesina para los días de lluvia",
-          "date": "2025-01-08T09:15:00Z"
-        }
-      ],
-      "lastUpdated": "2025-01-17T08:00:00Z",
-      "accessibility": true,
-      "shelter": false
-    },
-    {
-      "id": "1403",
-      "name": "Sainz de Baranda",
-      "location": {
-        "latitude": 40.419,
-        "longitude": -3.670
-      },
-      "lines": [
-        {
-          "number": "14",
-          "direction": "Conde de Casal → Avenida de América",
-          "type": "urbana"
-        }
-      ],
-      "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1403/arrives",
-      "status": "maintenance",
-      "category": "Normal",
-      "imageURL": null,
-      "infoURL": null,
-      "averageRating": 4.2,
-      "reviews": [
-        {
-          "id": "r5",
-          "userName": "Laura S.",
-          "rating": 4.0,
-          "comment": "Buena parada, cerca del metro",
-          "date": "2025-01-05T14:30:00Z"
-        }
-      ],
-      "lastUpdated": "2025-01-17T08:00:00Z",
-      "accessibility": true,
-      "shelter": true
+      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1402/arrives"
     },
     {
       "id": "701",
@@ -131,31 +49,7 @@
         }
       ],
       "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/701/arrives",
-      "status": "active",
-      "category": "Intercambiador",
-      "imageURL": "https://example.com/images/701.jpg",
-      "infoURL": "https://www.emtmadrid.es/PMVVisor/pmv.aspx?stopnum=701",
-      "averageRating": 4.8,
-      "reviews": [
-        {
-          "id": "r6",
-          "userName": "Pedro R.",
-          "rating": 5.0,
-          "comment": "Excelente intercambiador, muy completo",
-          "date": "2025-01-12T11:00:00Z"
-        },
-        {
-          "id": "r7",
-          "userName": "Isabel F.",
-          "rating": 4.5,
-          "comment": "Muy bien conectado con metro y otras líneas",
-          "date": "2025-01-11T17:20:00Z"
-        }
-      ],
-      "lastUpdated": "2025-01-17T08:00:00Z",
-      "accessibility": true,
-      "shelter": true
+      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/701/arrives"
     }
   ]
 }

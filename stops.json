@@ -1,98 +1,614 @@
-{
-  "stops": [
-    {
-      "id": "1401",
-      "name": "Conde de Casal",
-      "location": {
-        "latitude": 40.406,
-        "longitude": -3.670
-      },
-      "lines": [
-        {
-          "number": "14",
-          "direction": "Conde de Casal → Avenida de América",
-          "type": "urbana"
-        }
-      ],
-      "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1401/arrives",
-      "status": "active",
-      "category": "Intercambiador",
-      "imageURL": null,
-      "infoURL": null,
-      "averageRating": 4.5,
-      "reviews": [
-        {
-          "id": "r1",
-          "userName": "Juan P.",
-          "rating": 5.0,
-          "comment": "Parada muy bien situada",
-          "date": "2025-01-15T10:30:00Z"
-        }
-      ],
-      "lastUpdated": "2025-01-17T08:00:00Z",
-      "accessibility": true,
-      "shelter": true
+[
+  {
+    "id": "1401",
+    "name": "Conde de Casal",
+    "location": {
+      "latitude": 40.4065,
+      "longitude": -3.6701
     },
-    {
-      "id": "1402",
-      "name": "Doctor Esquerdo - Cavanilles",
-      "location": {
-        "latitude": 40.409,
-        "longitude": -3.675
-      },
-      "lines": [
-        {
-          "number": "14",
-          "direction": "Conde de Casal → Avenida de América",
-          "type": "urbana"
-        }
-      ],
-      "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1402/arrives",
-      "status": "active",
-      "category": "Normal",
-      "imageURL": null,
-      "infoURL": null,
-      "averageRating": 3.8,
-      "reviews": [],
-      "lastUpdated": "2025-01-17T08:00:00Z",
-      "accessibility": true,
-      "shelter": false
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1401/arrives"
+  },
+  {
+    "id": "1402",
+    "name": "Doctor Esquerdo - Cavanilles",
+    "location": {
+      "latitude": 40.4092,
+      "longitude": -3.6752
     },
-    {
-      "id": "701",
-      "name": "Manuel Becerra",
-      "location": {
-        "latitude": 40.429,
-        "longitude": -3.671
-      },
-      "lines": [
-        {
-          "number": "7",
-          "direction": "Manuel Becerra → Estadio Metropolitano",
-          "type": "urbana"
-        }
-      ],
-      "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/701/arrives",
-      "status": "active",
-      "category": "Intercambiador",
-      "imageURL": null,
-      "infoURL": null,
-      "averageRating": 4.8,
-      "reviews": [
-        {
-          "id": "r2",
-          "userName": "Pedro R.",
-          "rating": 5.0,
-          "comment": "Excelente intercambiador",
-          "date": "2025-01-12T11:00:00Z"
-        }
-      ],
-      "lastUpdated": "2025-01-17T08:00:00Z",
-      "accessibility": true,
-      "shelter": true
-    }
-  ]
-}
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1402/arrives"
+  },
+  {
+    "id": "1403",
+    "name": "Sainz de Baranda",
+    "location": {
+      "latitude": 40.4191,
+      "longitude": -3.6703
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1403/arrives"
+  },
+  {
+    "id": "1404",
+    "name": "O'Donnell - Ibiza",
+    "location": {
+      "latitude": 40.4214,
+      "longitude": -3.6741
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1404/arrives"
+  },
+  {
+    "id": "1405",
+    "name": "Manuel Becerra",
+    "location": {
+      "latitude": 40.4292,
+      "longitude": -3.6712
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1405/arrives"
+  },
+  {
+    "id": "1406",
+    "name": "Diego de León",
+    "location": {
+      "latitude": 40.4373,
+      "longitude": -3.6753
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1406/arrives"
+  },
+  {
+    "id": "1407",
+    "name": "Avda. de América",
+    "location": {
+      "latitude": 40.4394,
+      "longitude": -3.6762
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1407/arrives"
+  },
+  {
+    "id": "1408",
+    "name": "Avda. de América - Cartagena",
+    "location": {
+      "latitude": 40.4403,
+      "longitude": -3.6743
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1408/arrives"
+  },
+  {
+    "id": "1409",
+    "name": "Cartagena - Corazón de María",
+    "location": {
+      "latitude": 40.4432,
+      "longitude": -3.6701
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1409/arrives"
+  },
+  {
+    "id": "1410",
+    "name": "Alfonso XIII",
+    "location": {
+      "latitude": 40.4472,
+      "longitude": -3.6682
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1410/arrives"
+  },
+  {
+    "id": "1411",
+    "name": "Silvano",
+    "location": {
+      "latitude": 40.4532,
+      "longitude": -3.6612
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1411/arrives"
+  },
+  {
+    "id": "1412",
+    "name": "Arturo Soria",
+    "location": {
+      "latitude": 40.4603,
+      "longitude": -3.6541
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1412/arrives"
+  },
+  {
+    "id": "701",
+    "name": "Manuel Becerra",
+    "location": {
+      "latitude": 40.4292,
+      "longitude": -3.6712
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/701/arrives"
+  },
+  {
+    "id": "702",
+    "name": "Ventas",
+    "location": {
+      "latitude": 40.4301,
+      "longitude": -3.6632
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/702/arrives"
+  },
+  {
+    "id": "703",
+    "name": "El Carmen",
+    "location": {
+      "latitude": 40.4312,
+      "longitude": -3.6523
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/703/arrives"
+  },
+  {
+    "id": "704",
+    "name": "Quintana",
+    "location": {
+      "latitude": 40.4343,
+      "longitude": -3.6421
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/704/arrives"
+  },
+  {
+    "id": "705",
+    "name": "Pueblo Nuevo",
+    "location": {
+      "latitude": 40.4352,
+      "longitude": -3.6332
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/705/arrives"
+  },
+  {
+    "id": "706",
+    "name": "Ascao",
+    "location": {
+      "latitude": 40.4372,
+      "longitude": -3.6252
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/706/arrives"
+  },
+  {
+    "id": "707",
+    "name": "Barrio de la Concepción",
+    "location": {
+      "latitude": 40.4382,
+      "longitude": -3.6172
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/707/arrives"
+  },
+  {
+    "id": "708",
+    "name": "Simancas",
+    "location": {
+      "latitude": 40.4393,
+      "longitude": -3.6102
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/708/arrives"
+  },
+  {
+    "id": "709",
+    "name": "Suanzes",
+    "location": {
+      "latitude": 40.4402,
+      "longitude": -3.6052
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/709/arrives"
+  },
+  {
+    "id": "710",
+    "name": "Canillejas",
+    "location": {
+      "latitude": 40.4412,
+      "longitude": -3.5982
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/710/arrives"
+  },
+  {
+    "id": "711",
+    "name": "Las Rosas",
+    "location": {
+      "latitude": 40.4432,
+      "longitude": -3.5892
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/711/arrives"
+  },
+  {
+    "id": "712",
+    "name": "Estadio Metropolitano",
+    "location": {
+      "latitude": 40.4362,
+      "longitude": -3.5982
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/712/arrives"
+  },
+  {
+    "id": "2701",
+    "name": "Plaza de Castilla",
+    "location": {
+      "latitude": 40.4657,
+      "longitude": -3.6889
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2701/arrives"
+  },
+  {
+    "id": "2702",
+    "name": "Bravo Murillo - Alvarado",
+    "location": {
+      "latitude": 40.4598,
+      "longitude": -3.6912
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2702/arrives"
+  },
+  {
+    "id": "2703",
+    "name": "Cuatro Caminos",
+    "location": {
+      "latitude": 40.4522,
+      "longitude": -3.7053
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2703/arrives"
+  },
+  {
+    "id": "2704",
+    "name": "Ríos Rosas",
+    "location": {
+      "latitude": 40.4456,
+      "longitude": -3.7012
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2704/arrives"
+  },
+  {
+    "id": "2705",
+    "name": "Iglesia",
+    "location": {
+      "latitude": 40.4399,
+      "longitude": -3.7012
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2705/arrives"
+  },
+  {
+    "id": "2706",
+    "name": "Bilbao",
+    "location": {
+      "latitude": 40.4289,
+      "longitude": -3.7012
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2706/arrives"
+  },
+  {
+    "id": "2707",
+    "name": "Tribunal",
+    "location": {
+      "latitude": 40.4265,
+      "longitude": -3.7012
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2707/arrives"
+  },
+  {
+    "id": "2708",
+    "name": "Gran Vía",
+    "location": {
+      "latitude": 40.4201,
+      "longitude": -3.7012
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2708/arrives"
+  },
+  {
+    "id": "2709",
+    "name": "Sol",
+    "location": {
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2709/arrives"
+  },
+  {
+    "id": "2710",
+    "name": "Tirso de Molina",
+    "location": {
+      "latitude": 40.4112,
+      "longitude": -3.7075
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2710/arrives"
+  },
+  {
+    "id": "2711",
+    "name": "Lavapiés",
+    "location": {
+      "latitude": 40.4087,
+      "longitude": -3.7012
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2711/arrives"
+  },
+  {
+    "id": "2712",
+    "name": "Embajadores",
+    "location": {
+      "latitude": 40.4034,
+      "longitude": -3.7012
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2712/arrives"
+  }
+]

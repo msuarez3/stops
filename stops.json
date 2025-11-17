@@ -15,7 +15,24 @@
         }
       ],
       "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1401/arrives"
+      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1401/arrives",
+      "status": "active",
+      "category": "Intercambiador",
+      "imageURL": null,
+      "infoURL": null,
+      "averageRating": 4.5,
+      "reviews": [
+        {
+          "id": "r1",
+          "userName": "Juan P.",
+          "rating": 5.0,
+          "comment": "Parada muy bien situada",
+          "date": "2025-01-15T10:30:00Z"
+        }
+      ],
+      "lastUpdated": "2025-01-17T08:00:00Z",
+      "accessibility": true,
+      "shelter": true
     },
     {
       "id": "1402",
@@ -32,7 +49,16 @@
         }
       ],
       "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1402/arrives"
+      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1402/arrives",
+      "status": "active",
+      "category": "Normal",
+      "imageURL": null,
+      "infoURL": null,
+      "averageRating": 3.8,
+      "reviews": [],
+      "lastUpdated": "2025-01-17T08:00:00Z",
+      "accessibility": true,
+      "shelter": false
     },
     {
       "id": "701",
@@ -49,7 +75,24 @@
         }
       ],
       "arrivals": [],
-      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/701/arrives"
+      "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/701/arrives",
+      "status": "active",
+      "category": "Intercambiador",
+      "imageURL": null,
+      "infoURL": null,
+      "averageRating": 4.8,
+      "reviews": [
+        {
+          "id": "r2",
+          "userName": "Pedro R.",
+          "rating": 5.0,
+          "comment": "Excelente intercambiador",
+          "date": "2025-01-12T11:00:00Z"
+        }
+      ],
+      "lastUpdated": "2025-01-17T08:00:00Z",
+      "accessibility": true,
+      "shelter": true
     }
   ]
 }

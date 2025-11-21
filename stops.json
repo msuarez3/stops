@@ -1,7 +1,7 @@
 [
   {
     "id": "1401",
-    "name": "Conde de Casalio",
+    "name": "Conde de Casal",
     "location": {
       "latitude": 40.4065,
       "longitude": -3.6701
@@ -610,5 +610,209 @@
     ],
     "arrivals": [],
     "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2712/arrives"
+  },
+  {
+    "id": "713",
+    "name": "García Noblejas",
+    "location": {
+      "latitude": 40.4422,
+      "longitude": -3.5912
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/713/arrives"
+  },
+  {
+    "id": "714",
+    "name": "San Blas",
+    "location": {
+      "latitude": 40.4442,
+      "longitude": -3.5852
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/714/arrives"
+  },
+  {
+    "id": "1413",
+    "name": "López de Hoyos",
+    "location": {
+      "latitude": 40.4613,
+      "longitude": -3.6521
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1413/arrives"
+  },
+  {
+    "id": "1414",
+    "name": "Ciudad Lineal",
+    "location": {
+      "latitude": 40.4623,
+      "longitude": -3.6501
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1414/arrives"
+  },
+  {
+    "id": "2713",
+    "name": "Atocha",
+    "location": {
+      "latitude": 40.4024,
+      "longitude": -3.6992
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2713/arrives"
+  },
+  {
+    "id": "2714",
+    "name": "Delicias",
+    "location": {
+      "latitude": 40.4004,
+      "longitude": -3.6972
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2714/arrives"
+  },
+  {
+    "id": "715",
+    "name": "Hermanos García Noblejas",
+    "location": {
+      "latitude": 40.4452,
+      "longitude": -3.5832
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/715/arrives"
+  },
+  {
+    "id": "716",
+    "name": "Alcalá de Guadaira",
+    "location": {
+      "latitude": 40.4462,
+      "longitude": -3.5812
+    },
+    "lines": [
+      {
+        "number": "7",
+        "direction": "Manuel Becerra → Estadio Metropolitano",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/716/arrives"
+  },
+  {
+    "id": "1415",
+    "name": "Hermanos García Noblejas",
+    "location": {
+      "latitude": 40.4633,
+      "longitude": -3.6481
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1415/arrives"
+  },
+  {
+    "id": "1416",
+    "name": "San Blas",
+    "location": {
+      "latitude": 40.4643,
+      "longitude": -3.6461
+    },
+    "lines": [
+      {
+        "number": "14",
+        "direction": "Conde de Casal → Avenida de América",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/1416/arrives"
+  },
+  {
+    "id": "2715",
+    "name": "Méndez Álvaro",
+    "location": {
+      "latitude": 40.3984,
+      "longitude": -3.6952
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2715/arrives"
+  },
+  {
+    "id": "2716",
+    "name": "Pacífico",
+    "location": {
+      "latitude": 40.3964,
+      "longitude": -3.6932
+    },
+    "lines": [
+      {
+        "number": "27",
+        "direction": "Plaza de Castilla → Embajadores",
+        "type": "urbana"
+      }
+    ],
+    "arrivals": [],
+    "apiURL": "https://openapi.emtmadrid.es/v2/transport/busemtmad/stops/2716/arrives"
   }
 ]
